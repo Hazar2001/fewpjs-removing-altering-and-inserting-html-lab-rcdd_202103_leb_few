@@ -1,3 +1,3 @@
 // Write your code here!
 
-mian.remove();
+main.remove();
